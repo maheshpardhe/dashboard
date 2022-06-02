@@ -1,0 +1,84 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "registeruser": [
+    {
+      "Username": "sssss",
+      "Email": "ssss@gmail.com",
+      "Mobile": 5447898565,
+      "password": "54855",
+      "id": 1
+    },
+    {
+      "Username": "Anuj Gawande",
+      "Email": "anujgawande10@gmail.com",
+      "Mobile": 9096016518,
+      "password": "Anuj12345",
+      "id": 2
+    },
+    {
+      "Username": "hdgdhdh",
+      "Email": "hdgdh@gmail.com",
+      "Mobile": 255452465,
+      "password": "5125522",
+      "id": 3
+    },
+    {
+      "Username": "ankita",
+      "Email": "ankta@gmail.com",
+      "Mobile": 558455256,
+      "password": "5555455",
+      "id": 4
+    },
+    {
+      "Username": "shiv",
+      "Email": "anujgawande@gmail.com",
+      "Mobile": 32568989,
+      "password": "1345",
+      "id": 5
+    },
+    {
+      "Username": "fdsfg",
+      "Email": "gdfgggdf@gmail.com",
+      "Mobile": 5545245656,
+      "password": "hhjghj54",
+      "id": 6
+    },
+    {
+      "Username": "anuj",
+      "Email": "anujgawande@gmail.com",
+      "Mobile": 35685985956,
+      "password": "123456",
+      "id": 7
+    },
+    {
+      "Username": "Anujgawande",
+      "Email": "anujgawande10@gmail.com",
+      "Mobile": 9096016518,
+      "password": "Anuj@1999",
+      "id": 8
+    },
+    {
+      "Username": "anuj",
+      "Email": "anuj@gmail.com",
+      "Mobile": 9656895285,
+      "password": "123456",
+      "id": 9
+    },
+    {
+      "Username": "anuj",
+      "Email": "anujgawande10@gmail.com",
+      "Mobile": 9096016518,
+      "password": "Anuj@1999",
+      "id": 10
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
